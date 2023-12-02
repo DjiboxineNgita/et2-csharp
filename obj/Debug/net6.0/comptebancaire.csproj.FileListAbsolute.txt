@@ -1,0 +1,15 @@
+C:\Users\djibo\source\repos\comptebancaire\obj\Debug\net6.0\comptebancaire.csproj.AssemblyReference.cache
+C:\Users\djibo\source\repos\comptebancaire\obj\Debug\net6.0\comptebancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djibo\source\repos\comptebancaire\obj\Debug\net6.0\comptebancaire.AssemblyInfoInputs.cache
+C:\Users\djibo\source\repos\comptebancaire\obj\Debug\net6.0\comptebancaire.AssemblyInfo.cs
+C:\Users\djibo\source\repos\comptebancaire\obj\Debug\net6.0\comptebancaire.csproj.CoreCompileInputs.cache
+C:\Users\djibo\source\repos\comptebancaire\bin\Debug\net6.0\comptebancaire.exe
+C:\Users\djibo\source\repos\comptebancaire\bin\Debug\net6.0\comptebancaire.deps.json
+C:\Users\djibo\source\repos\comptebancaire\bin\Debug\net6.0\comptebancaire.runtimeconfig.json
+C:\Users\djibo\source\repos\comptebancaire\bin\Debug\net6.0\comptebancaire.dll
+C:\Users\djibo\source\repos\comptebancaire\bin\Debug\net6.0\ref\comptebancaire.dll
+C:\Users\djibo\source\repos\comptebancaire\bin\Debug\net6.0\comptebancaire.pdb
+C:\Users\djibo\source\repos\comptebancaire\obj\Debug\net6.0\comptebancaire.dll
+C:\Users\djibo\source\repos\comptebancaire\obj\Debug\net6.0\ref\comptebancaire.dll
+C:\Users\djibo\source\repos\comptebancaire\obj\Debug\net6.0\comptebancaire.pdb
+C:\Users\djibo\source\repos\comptebancaire\obj\Debug\net6.0\comptebancaire.genruntimeconfig.cache
